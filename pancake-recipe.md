@@ -1,6 +1,6 @@
-Pancake recipe
+# Pancake recipe
 
-> Ingredients:
+## Ingredients:
  * 250 g flour
  * 500 ml milk
  * 2 (big) eggs
@@ -9,7 +9,7 @@ Pancake recipe
  * salt
  * sugar (optional)
 
-> Instructions:
+## Instructions:
 1. Mix the flour, eggs and milk together with a bit of olive oil and a pinch of salt (including some sugar if you want).
 2. Melt (part of) the butter in a baking pan on half-heat.
 3. Put some of the mixture in the pan, until there is a thin layer all over the pan.
